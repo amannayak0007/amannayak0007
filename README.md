@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a iOS Engineer at Paytm 👨🏻‍💻
-- 🌱 I’m currently learning to manage my time productively to get the best out of these three months.
+- 🔭 I’m currently working as an iOS Engineer at Paytm 👨🏻‍💻
+-  Apple Geek and Git Lover, Designer + Coder, Creative Thinker, WWDC 2016 Student Scholarship Winner.
+- I ❤ to Design and Code.
 - 📫 Reach out to me: [Twitter](https://twitter.com/amanj203)
 
 <img align="left" alt="iOS" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
