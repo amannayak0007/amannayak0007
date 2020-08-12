@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as an iOS Engineer at Paytm 👨🏻‍💻
--  Apple Geek and Git Lover, Designer + Coder, Creative Thinker, WWDC 2016 Student Scholarship Winner.
+- I’m currently working as an iOS Engineer at Paytm 👨🏻‍💻
+- Apple Geek and Git Lover, Designer + Coder, Creative Thinker, WWDC 2016 Student Scholarship Winner.
 - I ❤ to Design and Code.
 - 📫 Reach out to me: [Twitter](https://twitter.com/amanj203)
 
