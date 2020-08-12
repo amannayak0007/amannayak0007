@@ -9,7 +9,7 @@
 <img align="left" alt="macOS" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 <img align="left" alt="Xcode" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 <img align="left" alt="Swift" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="GitHub" width="41px" src="https://github.com/amannayak0007/amannayak0007/blob/master/icons8-swiftui-480.png?raw=true" />
+<img align="left" alt="GitHub" width="41px" src="https://github.com/amannayak0007/amannayak0007/blob/master/icons8-swiftui-520.png?raw=true" />
 <img align="left" alt="Objective-C" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
 <img align="left" alt="Sketch" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png" />
 <img align="left" alt="Firebase" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
