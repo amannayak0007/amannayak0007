@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a iOS Engineer at Paytm, working remotely. 👨‍💻
+- 🔭 I’m currently working as a iOS Engineer at Paytm 👨🏻‍💻
 - 🌱 I’m currently learning to manage my time productively to get the best out of these three months.
 - 📫 Reach out to me: [Twitter](https://twitter.com/amanj203)
 
