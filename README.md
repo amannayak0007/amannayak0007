@@ -1,7 +1,8 @@
 
-![Header](./github-header-image (4).png)
 
-# Hi there 👋, My name is Aman
+
+# 
+![Header](./github-header-image (4).png)
 
 A very enthusiastic iOS developer with a very diverse experience, from building games to enterprise applications and POCs, specially when exploring new technologies.
 
