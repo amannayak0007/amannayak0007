@@ -10,7 +10,7 @@ I ❤ to Design and Code | Product Enthusiasts 🚀
 <p>🔭 I'm currently working on Sign Easy</p>
 <p>🌱 I'm currently learning SwiftUI</p>
 <p>📫 How to reach me? amannayak15@gmail.com</p>
-<p>I regularly write articles on <a href="https://apps.apple.com/us/developer/digital-hole-pvt-ltd/id917701060">App Store</a></p>
+<p>🤖 All of my projects are available at <a href="https://apps.apple.com/us/developer/digital-hole-pvt-ltd/id917701060">App Store</a></p>
 <p>Know about my experiences <a href="https://www.linkedin.com/in/aman-jain-4a589b8a/">here</a></p>
 
 ## 💻 Skills
