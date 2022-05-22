@@ -1,31 +1,40 @@
-### Hi there 👋
+# Hi there 👋, My name is Aman
 
-- I’m currently working as an iOS Engineer at Paytm 👨🏻‍💻
-- Apple Geek and Git Lover, Designer + Coder, Creative Thinker, WWDC Student Scholarship Winner.
-- I ❤ to Design and Code.
-- 📫 Reach out to me: [Twitter](https://twitter.com/amanj203)
+A very enthusiastic iOS developer with a very diverse experience, from building games to enterprise applications and POCs, specially when exploring new technologies.
 
-<img align="left" alt="iOS" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img align="left" alt="macOS" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
-<img align="left" alt="Xcode" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-<img align="left" alt="Swift" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="GitHub" width="41px" src="https://github.com/amannayak0007/amannayak0007/blob/master/icons8-swiftui-240.png?raw=true" />
-<img align="left" alt="Objective-C" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
-<img align="left" alt="Sketch" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png" />
-<img align="left" alt="Firebase" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Git" width="41px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="41px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+iOS/watchOS/tvOS/macOS Developer, UI/UX Designer, Swift Lover, Xcode & Sketch Lover, Apple Geek and Git Lover, Designer + Coder, Creative Thinker, WWDC 2016 Student Scholarship Winner.
 
-<!--
-**rudrankriyam/rudrankriyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I ❤ to Design and Code | Product Enthusiasts 🚀
 
-Here are some ideas to get you started:
+## 💫 Liitle Bit More About Me
+<p>🔭 I'm currently working on Sign Easy</p>
+<p>🌱 I'm currently learning SwiftUI</p>
+<p>📫 How to reach me? amannayak15@gmail.com</p>
+<p>I regularly write articles on <a href="https://apps.apple.com/us/developer/digital-hole-pvt-ltd/id917701060">App Store</a></p>
+<p>Know about my experiences <a href="https://www.linkedin.com/in/aman-jain-4a589b8a/">here</a></p>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+</p>
+
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-jain-4a589b8a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/https://twitter.com/amanj203"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/https://www.instagram.com/aman.ios/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://dribbble.com/https://dribbble.com/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
+
+## 🌟 Github Badges
+<p>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=">
+</p>
+
+## 📊 Github Status
