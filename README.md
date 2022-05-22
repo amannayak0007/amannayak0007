@@ -1,7 +1,7 @@
 
 
 # Hi there 👋, My name is Aman
-![Header](./github-header-image (4).png)
+![Header](./intro.png)
 A very enthusiastic iOS developer with a very diverse experience, from building games to enterprise applications and POCs, specially when exploring new technologies.
 
 iOS/watchOS/tvOS/macOS Developer, UI/UX Designer, Swift Lover, Xcode & Sketch Lover, Apple Geek and Git Lover, Designer + Coder, Creative Thinker, WWDC 2016 Student Scholarship Winner.
